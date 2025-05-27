@@ -31,7 +31,7 @@
 <!-- Add more tools -->
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Har1Prasaath&theme=react&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Har1Prasaath&theme=github_dark&mode=weekly)](https://git.io/streak-stats)
 
 ## 📫 How to reach me
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
