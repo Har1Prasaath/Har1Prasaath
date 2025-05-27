@@ -18,22 +18,18 @@
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,haskell,javascript,html,css&theme=dark&perline=8" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,html,css,javascript,scala,haskell,mysql,postgresql,mongodb&theme=dark&perline=8" alt="Programming Languages" />
 </p>
 
 ### Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,terraform&theme=dark&perline=8" alt="Frameworks and Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,next,expressjs,vue,tailwind,materialui,sklearn,tensorflow,pytorch&theme=dark&perline=8" alt="Frameworks and Libraries" />
 </p>
 
-### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,dynamodb,sqlite&theme=dark&perline=8" alt="Databases" />
-</p>
 
 ### Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,bash,regex&theme=dark&perline=8" alt="Tools and Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,docker,vercel,vscode,pycharm,kali,firebase&theme=dark&perline=8" alt="Tools and Technologies" />
 </p>
 
 ## 📈 GitHub Stats
@@ -57,7 +53,7 @@
 - Github: [Github](https://github.com/har1Prasaath/)
 <!-- - Website: [yourwebsite.com](https://yourwebsite.com)-->
 
-## 📝 Latest Blog Posts
+<!--## 📝 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
