@@ -8,12 +8,11 @@
 🚀 On a mission to grow, build, and contribute—one line of code at a time.
 
 ## 🔭 I'm currently working on
-- Project 1
-- Project 2
+- My Portfolio
 
 ## 🌱 I'm currently learning
-- Technology 1
-- Technology 2
+- Mobile App Development
+
 
 ## 💼 Technical Skills
 ### Programming Languages
@@ -32,7 +31,7 @@
 <!-- Add more tools -->
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Har1Prasaath&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Har1Prasaath&theme=tokyonight-duo&mode=weekly)]
 
 ## 📫 How to reach me
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
