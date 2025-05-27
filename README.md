@@ -38,7 +38,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Har1Prasaath&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="Hari's GitHub stats" />
   </a>
   <a href="https://github.com/Har1Prasaath">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Har1Prasaath&theme=github_dark_blue&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Har1Prasaath&theme=github_dark_blue&hide_border=true&mode=weekly" alt="GitHub Streak" />
   </a>
 </p>
 <p align="center">
