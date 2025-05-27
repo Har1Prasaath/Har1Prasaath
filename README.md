@@ -31,14 +31,25 @@
 <!-- Add more tools -->
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Har1Prasaath&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Naganathan05&theme=github_dark_blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Har1Prasaath&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/Har1Prasaath">
+    <img src="https://github-readme-stats.vercel.app/api?username=Har1Prasaath&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="Hari's GitHub stats" />
+  </a>
+  <a href="https://github.com/Har1Prasaath">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naganathan05&theme=github_dark_blue&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Har1Prasaath">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har1Prasaath&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  </a>
+</p>
 
 ## 📫 How to reach me
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Website: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: [Hari Prasaath](https://www.linkedin.com/in/har1prasaath/)
+- Email: shwethahari005@gmail.com
+- Github: [Github](https://github.com/har1Prasaath/)
+<!-- - Website: [yourwebsite.com](https://yourwebsite.com)-->
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
