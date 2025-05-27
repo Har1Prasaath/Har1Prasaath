@@ -18,18 +18,18 @@
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,html,css,javascript,scala,haskell,mysql,postgresql,mongodb&theme=dark&perline=8" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,html,css,javascript,scala,haskell,mysql,postgresql,mongodb&theme=dark&perline=15" alt="Programming Languages" />
 </p>
 
 ### Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,next,expressjs,vue,tailwind,materialui,sklearn,tensorflow,pytorch&theme=dark&perline=8" alt="Frameworks and Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,next,expressjs,vue,tailwind,materialui,sklearn,tensorflow,pytorch&theme=dark&perline=15" alt="Frameworks and Libraries" />
 </p>
 
 
 ### Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,docker,vercel,vscode,pycharm,kali,firebase&theme=dark&perline=8" alt="Tools and Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,docker,vercel,vscode,pycharm,kali,firebase&theme=dark&perline=15" alt="Tools and Technologies" />
 </p>
 
 ## 📈 GitHub Stats
