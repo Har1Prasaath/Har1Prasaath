@@ -31,11 +31,9 @@
 <!-- Add more tools -->
 
 ## 📈 GitHub Stats
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Naganathan05&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Tharun's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naganathan05&theme=gotham&hide_border=true" alt="GitHub Streak" />
-</div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Har1Prasaath&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<center>
+![](https://github-readme-stats.vercel.app/api?username=Har1Prasaath&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Naganathan05&theme=github_dark_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Har1Prasaath&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📫 How to reach me
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
