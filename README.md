@@ -31,7 +31,7 @@
 <!-- Add more tools -->
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Har1Prasaath&theme=tokyonight-duo&mode=weekly)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Har1Prasaath&theme=tokyonight-duo&mode=weekly)
 
 ## 📫 How to reach me
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
