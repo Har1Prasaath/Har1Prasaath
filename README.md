@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Hari Prasaath
+# Hello there, I'm Hari Prasaath
 
 ## About Me
 👋 I'm an undergraduate Computer Science and Engineering student with hands-on experience in software development and collaborative programming. From building real-world solutions to tackling complex problems in team-based projects, I love turning ideas into impact.
@@ -15,20 +15,26 @@
 
 
 ## 💼 Technical Skills
+
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-<!-- Add more languages -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,haskell,javascript,html,css&theme=dark&perline=8" alt="Programming Languages" />
+</p>
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-<!-- Add more frameworks -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,terraform&theme=dark&perline=8" alt="Frameworks and Libraries" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,dynamodb,sqlite&theme=dark&perline=8" alt="Databases" />
+</p>
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-<!-- Add more tools -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,bash,regex&theme=dark&perline=8" alt="Tools and Technologies" />
+</p>
 
 ## 📈 GitHub Stats
 <p align="center">
