@@ -31,9 +31,9 @@
 <!-- Add more tools -->
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Har1Prasaath&theme=github_dark&show_icons=true&hide_border=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Naganathan05&theme=github_dark_blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Har1Prasaath&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Har1Prasaath&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Naganathan05&theme=github_dark_blue&hide_border=true)<br/><center>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Har1Prasaath&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<center>
 
 ## 📫 How to reach me
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
