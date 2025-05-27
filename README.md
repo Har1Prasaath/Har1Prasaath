@@ -1,7 +1,11 @@
-# Hi there 👋, I'm Har1Prasaath
+# Hello there 👋, I'm Hari Prasaath
 
 ## About Me
-I'm a passionate developer with a focus on [your main technologies]. With [X] years of experience in software development, I enjoy building [types of applications/solutions].
+👋 I'm an undergraduate Computer Science and Engineering student with hands-on experience in software development and collaborative programming. From building real-world solutions to tackling complex problems in team-based projects, I love turning ideas into impact.
+
+💡 Passionate about emerging tech, I’m always exploring new tools, frameworks, and innovations to push the boundaries of what I can create. Whether it's optimizing performance, learning the latest trends, or solving real user problems, I'm all in.
+
+🚀 On a mission to grow, build, and contribute—one line of code at a time.
 
 ## 🔭 I'm currently working on
 - Project 1
